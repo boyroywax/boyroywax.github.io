@@ -1,0 +1,8 @@
+{
+    "name": "ORENFT",
+    "description": "Open Rights Exchange",
+    "image": "https://boxycoinnfts.mypinata.cloud/ipfs/QmUwRyiPqy8xzxH6HiaehJ2aBcAbEjbXMfkMYvmGdtMmje",
+    "external_link": "https://oreid.io",
+    "seller_fee_basis_points": 100, 
+    "fee_recipient": "0x7A25fa08fd0b4F5348E6aE188BeB72b0b5A0B7F5"
+  }
