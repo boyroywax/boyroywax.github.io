@@ -1,0 +1,8 @@
+  {
+    "name": "ORENFT",
+    "description": "Open Rights Exchange ERC 1155 NFT 2 Peice Collection",
+    "image": "https://gateway.pinata.cloud/ipfs/QmUwRyiPqy8xzxH6HiaehJ2aBcAbEjbXMfkMYvmGdtMmje",
+    "external_link": "https://oreid.io",
+    "seller_fee_basis_points": 500, 
+    "fee_recipient": "0x7eFef68B9BD9342AEC2b21681426aF541343a4dD"
+  }
