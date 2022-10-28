@@ -1,0 +1,49 @@
+{
+    "attributes" : [ {
+        "trait_type" : "Rarity",
+        "value" : "Rare"
+      }, {
+        "display_type": "date", 
+        "trait_type": "Release Date", 
+        "value": 1666917958
+      },{
+        "trait_type": "Spirit Animal", 
+        "value": "Jellyfish"
+      }, 
+      {
+        "trait_type": "Power Color", 
+        "value": "Torquoise"
+      }, 
+      {
+        "trait_type": "Level", 
+        "value": 1
+      }, 
+      {
+        "trait_type": "Crystal Charge", 
+        "value": 1.23
+      }, 
+      {
+        "trait_type": "Chi", 
+        "value": "Wind"
+      }, 
+      {
+        "display_type": "boost_number", 
+        "trait_type": "Staking Power", 
+        "value": 33
+      }, 
+      {
+        "display_type": "boost_percentage", 
+        "trait_type": "Chackra Increase", 
+        "value": 11
+      }, 
+      {
+        "display_type": "number", 
+        "trait_type": "Generation", 
+        "value": 1
+      } 
+    ],
+    "description" : "Visit ORE NETWORK @ ore.network",
+    "animation_url" : "https://gateway.pinata.cloud/ipfs/QmSdezrRqxdkvG7eLLjY7iPznsVt5zsqkJ1BrBQgPBsLhS",
+    "image" : "https://gateway.pinata.cloud/ipfs/QmcHzGWoXSUV3WDekYjkVhgg9H66TGGpKXb3u8AwxubenN",
+    "name" : "ORE NETWORK SMOKE"
+}
